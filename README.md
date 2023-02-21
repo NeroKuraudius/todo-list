@@ -1,16 +1,28 @@
 # 基本功能
 
 可新增、刪除、修改、查看待處理事項
+
+
 已完成事項可打勾
 
 
 # 環境需求
 
 Node.js 18.12.1
+
+
 Express 4.18.2
+
+
 Express-handlebars 6.0.6
+
+
 Method-override 3.0.0
+
+
 MongoDB
+
+
 Mongoose: 6.8.4
 
 
